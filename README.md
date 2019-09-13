@@ -6,7 +6,7 @@ xXx TeaM_CPBD App xXx
  
 
  
-Features:
+Features added to v-4.5:
 1. Mini Hackbar
 2. Browser
 3. Text Replacer
@@ -36,7 +36,11 @@ Features:
  
 Developed by: 
 
+
 XR00T3D-H4X0R
+
 Mr 0GGY
+
 R0t4t1nG S0uL 
+
 L@Dy W4rr10r
