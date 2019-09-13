@@ -31,10 +31,13 @@ Features added to v-4.5:
 22. Text to Speech
 23. Facebook Auto Liker
 24. Camera
+
+
+
  
 
  
-Developed by: 
+* Developed by: 
 
 
 XR00T3D-H4X0R
