@@ -32,6 +32,11 @@ Features added to v-4.5:
 23. Facebook Auto Liker
 24. Camera
 
+Features Added to v-4.6:
+1. DNS Lookup
+2. Shells
+3. HTTP Header Reader
+4. MD5 Hash Cracker (L:32)
 
 
  
