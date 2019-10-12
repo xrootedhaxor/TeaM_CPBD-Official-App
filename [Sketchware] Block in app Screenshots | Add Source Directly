@@ -1,0 +1,4 @@
+//Place This Code in On Activity Create
+//Code By Xrootedhaxor from TeaM_CPBD
+ 
+getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE);
